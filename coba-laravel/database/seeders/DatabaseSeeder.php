@@ -25,15 +25,15 @@ class DatabaseSeeder extends Seeder
         // ]);
 
         // User::create([
-        //     'name' => 'Cap Sinaga',
-        //     'email' => 'Cap16@gmail.com',
+        //     'name' => 'Rizal Muhammad Farabi',
+        //     'email' => 'farabirizal111@gmail.com',
         //     'password' => bcrypt('12345')
 
         // ]);
 
         // User::create([
-        //     'name' => 'Berr',
-        //     'email' => 'Berr22@gmail.com',
+        //     'name' => 'rizalfarabi',
+        //     'email' => 'rizalfarabi15@gmail.com',
         //     'password' => bcrypt('12345')
 
         // ]);
